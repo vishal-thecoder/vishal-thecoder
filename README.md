@@ -24,7 +24,8 @@ Welcome to my GitHub profile! I’m a technology enthusiast and developer who lo
 
 ### Tools & Platforms
 <p>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Microsoft_Office_Word_2013-2019_logo.svg" width="40" height="40" alt="Microsoft Word" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Microsoft_Word_2019_logo.svg" width="40" height="40" alt="Microsoft Word" />
+</p>
 </p>
 
 ## 📫 Let's Connect!
