@@ -1,13 +1,14 @@
-# Hi there, I'm Vishal! 👋
+# Hello, I'm Vishal! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in Java, front-end technologies, and a knack for creating polished documentation using Microsoft Word. Here's a bit about me:
+Welcome to my GitHub profile! I’m a technology enthusiast and developer who loves building innovative solutions and diving into new challenges. Thanks for stopping by!
 
 ## 🚀 About Me
 
-- 💻 I’m currently working on projects involving Java and front-end development.
-- 📝 Proficient in creating well-structured technical documentation using Microsoft Word.
-- 🌱 Continuously learning modern web technologies and improving my skills.
-- 🤝 Open to collaborating on front-end projects, Java applications, and creating professional-grade documentation.
+- 🔥 Passionate about developing efficient and user-friendly applications.
+- 💻 Skilled in Java and front-end technologies like React, HTML, and CSS.
+- 📝 Adept at creating structured and professional documentation using Microsoft Word.
+- 🌱 Currently exploring advanced web development and honing my skills in modern frameworks.
+- 🤝 Always open to collaborating on exciting projects and sharing knowledge.
 
 ## 🔧 Technologies & Tools
 
@@ -19,13 +20,25 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in Java,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
 </p>
 
+### Front-End Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-plain.svg" width="40" height="40" alt="Microsoft Word" />
+</p>
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-profile)  
-<a href="https://wa.me/91XXXXXXXXXX">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-s-k-10814b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+<a href="https://wa.me/919789313666">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" alt="WhatsApp" />
 </a>  
-[![Email](https://img.shields.io/badge/Email-vishal.email%40domain.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:vishal.email@domain.com)
+[![Email](https://img.shields.io/badge/Email-vishalsubbiah2020%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:vishalsubbiah2020@gmail.com)
 
 ---
 
