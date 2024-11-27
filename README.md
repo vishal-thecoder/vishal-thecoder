@@ -20,14 +20,6 @@ Welcome to my GitHub profile! I’m a technology enthusiast and developer who lo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
 </p>
 
-
-
-### Tools & Platforms
-<p>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Microsoft_Word_2019_logo.svg" width="40" height="40" alt="Microsoft Word" />
-</p>
-</p>
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-s-k-10814b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 <a href="https://wa.me/919789313666">
